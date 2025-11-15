@@ -1,38 +1,56 @@
-# calculadora-vue
+# 🧮 Calculadora Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📎 Sumário
 
-## Recommended IDE Setup
+• 📌 Resumo do Projeto
+• ⭐ Desafio
+• 📂 Funcionalidades
+• ✔️ Tecnologias Utilizadas
+• 💻 Demonstração
+• 🙋 Autora
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📌 Resumo do Projeto
 
-## Recommended Browser Setup
+O Calculadora Vue é um projeto desenvolvido no Módulo 27 do curso Full Stack Python da EBAC, como exercício prático para consolidar o aprendizado de Vue.js.
+O objetivo é criar uma calculadora interativa que realiza operações matemáticas básicas, explorando o uso de componentes, bindings, eventos e reatividade do Vue.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## ⭐ Desafio
 
-## Customize configuration
+• Criar uma interface funcional e intuitiva utilizando Vue.js
+• Implementar a lógica das operações matemáticas (soma, subtração, multiplicação e divisão)
+• Utilizar diretivas e eventos do Vue
+• Aplicar estilo global e classes utilitárias com Bootstrap
+• Garantir o funcionamento responsivo e visual agradável
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 📂 Funcionalidades
 
-## Project Setup
+✔️ Interface interativa construída com Vue.js
+✔️ Exibição dinâmica dos valores e resultados
+✔️ Botões funcionais para todas as operações básicas
+✔️ Layout estilizado com Bootstrap
+✔️ Código modular e organizado em componentes
+✔️ Responsividade garantida
 
-```sh
+## ✔️ Tecnologias Utilizadas
+
+• Vue.js 3
+• Vite
+• JavaScript
+• HTML5
+• CSS3
+• Bootstrap 5
+• Git e GitHub
+
+## 💻 Demonstração
+
+Para visualizar o projeto em funcionamento:
+
+1️⃣ Clone o repositório:
+git clone https://github.com/Katiadantass/calculadora_vue.git
+
+2️⃣ Acesse a pasta do projeto:
+cd calculadora_vue
+
+3️⃣ Instale as dependências e execute:
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
